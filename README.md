@@ -131,11 +131,3 @@ To enable Google Calendar integration:
 This project is licensed under the MIT License.
 
 ```
-
----
-
-If you want, I can also make a **shorter GitHub-friendly version** with an image preview so it looks good at the top of your repo page.  
-Do you want me to prepare that too?
-```
-o it looks good at the top of your repo page.  
-Do you want me to prepare that too?
