@@ -19,6 +19,17 @@ An AI-powered tool that predicts your focus level based on your study schedule a
 - **Joblib** for model saving/loading
 
 ---
+## 🧠 Why I Chose This Model
+
+I chose a **Regression Model** (specifically, Linear Regression) because our target variable — **focus level** — is **continuous** (a numeric value between 1 and 5).  
+Unlike classification models that predict categories (e.g., "low", "medium", "high"), regression models can output precise numeric predictions.
+
+**Reasons for using Regression here:**
+1. **Continuous Output** → Focus level is not just a label, but a scale.
+2. **Interpretability** → Easy to understand how each input (start time, end time, energy) influences the prediction.
+3. **Simplicity & Efficiency** → Works well with small datasets and fast to train.
+
+---
 
 ## 📂 Project Structure
 ```
