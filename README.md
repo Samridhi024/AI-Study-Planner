@@ -103,13 +103,13 @@ To enable Google Calendar integration:
 
 ## 📸 Demo Screenshots
 
-### 1. Home Screen
+### 1. Home Screen and Prediction Result
 ![Home Screen](assets/screenshot1.png)
 
-### 2. Prediction Result
+### 2. Google Calendar Integration
 ![Prediction Result](assets/screenshot2.png)
 
-### 3. Google Calendar Integration
+### 3. Google Calendar showing study session
 ![Google Calendar Integration](assets/screenshot3.png)
 
 
